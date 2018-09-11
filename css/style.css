@@ -1,0 +1,40 @@
+span, h1
+{
+  font-family: Lobster, monospace;
+}
+body
+{
+  font-family: monospace;
+  font-size: 20px;
+}
+span
+{
+  font-size: 20px;
+  color: #590A27;
+}
+h1
+{
+  color: #590A27;
+}
+
+img:hover {filter: blur(5px);}
+
+img
+{
+  --penguin-size: 250px;
+  width: var(--penguin-size);
+
+}
+.div_color
+{
+  background-color: #FBE2D7;
+}
+
+.borders
+{
+  border-style: solid;
+  border-width: 3px;
+  border-color: #EAA79F;
+  border-bottom-style: hidden;
+}
+/* #EAA79F */
