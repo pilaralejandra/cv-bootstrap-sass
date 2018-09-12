@@ -1,1 +1,12 @@
+#pp
+{
+  width: 150px;
+}
 
+body
+{
+  background-color: pink;
+  background-image: url("../img/bgpick.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
