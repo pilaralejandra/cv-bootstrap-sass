@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My CV using bootstrap and sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilaralejandra/cv-bootstrap-sass.git"
+  },
+  "author": "Alejandra Izquierdo <pilar.izquierdo@alumnos.udg>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pilaralejandra/cv-bootstrap-sass/issues"
+  },
+  "homepage": "https://github.com/pilaralejandra/cv-bootstrap-sass#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
