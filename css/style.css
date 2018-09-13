@@ -1,32 +1,34 @@
-html, body
+/* html, body
 {
   width: 100%;
   height: 100%;
-}
+} */
+/* *
+{
+  border: 1px solid black;
+} */
 #pp
 {
-  width: 150px;
+  width: 200px;
   border-radius: 50%;
   border-style: solid;
   border-color: #3C3C3B;
+  /* display: block;
+  margin: auto;
+  margin-top: 5%;
+  margin-left: 10%; */
 }
 
 body
 {
   background-color: pink;
   background-image: url("../img/bgpick.jpg");
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-size: cover;
+  padding: 30px;
 }
 
-.container-fluid
+.container
 {
   background-color: #FAF9F9;
-  height: 100%;
-  width: auto;
-}
-
-body .container-fluid
-{
-  margin: 20px;
 }
