@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/pilaralejandra/cv-bootstrap-sass#readme",
   "devDependencies": {
-    "node-sass": "^4.9.3"
-  }
+    "@fortawesome/fontawesome-free": "^5.3.1",
+    "node-sass": "^4.9.3",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {}
 }
